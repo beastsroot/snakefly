@@ -8,3 +8,5 @@
 ## 法律免责声明
 ## 端口
 >>snakefly使用计算机的9288端口。</br>
+## 开源协议
+>>snakefly遵循GNU General Public License v3.0</br>
